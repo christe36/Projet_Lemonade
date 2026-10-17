@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lemonade</string>
+
+    <!-- Libellés affichés à l'écran pour chaque étape (étapes 1 à 4) -->
+    <string name="libelle_selection">Tap the lemon tree to select a lemon</string>
+    <string name="libelle_pressage">Keep tapping the lemon to squeeze it</string>
+    <string name="libelle_boisson">Tap the lemonade to drink it</string>
+    <string name="libelle_verre_vide">Tap the empty glass to start again</string>
+
+    <!-- Descriptions des images (accessibilité : lues par TalkBack, non affichées à l'écran) -->
+    <string name="description_citronnier">Lemon tree</string>
+    <string name="description_citron">Lemon</string>
+    <string name="description_verre_citronnade">Glass of lemonade</string>
+    <string name="description_verre_vide">Empty glass</string>
+</resources>
