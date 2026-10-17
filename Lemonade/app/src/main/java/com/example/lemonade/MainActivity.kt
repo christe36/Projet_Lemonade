@@ -1,13 +1,3 @@
-/*
- * Application Lemonade
- * Package : com.example.lemonade
- *
- * Principe : l'utilisateur suit 4 étapes en appuyant sur l'image affichée.
- *   Étape 1 : citronnier   -> appui -> on "sélectionne" un citron (étape 2)
- *   Étape 2 : citron       -> appui répété (2 à 4 fois, au hasard) -> citronnade (étape 3)
- *   Étape 3 : citronnade   -> appui -> on la "boit" -> verre vide (étape 4)
- *   Étape 4 : verre vide   -> appui -> retour au citronnier (étape 1)
- */
 package com.example.lemonade
 
 import android.os.Bundle
